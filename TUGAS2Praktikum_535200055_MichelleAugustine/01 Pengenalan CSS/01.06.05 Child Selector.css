@@ -1,0 +1,6 @@
+/* Gambar 10  Style CSS Child Selector */
+div > p{
+    color: white;
+    background: green;
+    padding: 2px;
+}

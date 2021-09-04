@@ -1,0 +1,4 @@
+/* Gambar 19 CSS Style General Sibling Selector */
+div ~ p{
+    background-color: yellow;
+}

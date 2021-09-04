@@ -1,0 +1,4 @@
+/* Gambar 16 CSS Adjacent sibling selector */
+h1+h2{
+    color: red;
+}

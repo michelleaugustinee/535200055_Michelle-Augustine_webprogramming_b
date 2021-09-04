@@ -1,0 +1,10 @@
+/* Gambar 1 Slecter dan Declaration pada CSS*/
+p{
+    font-family: Arial;
+}
+
+/* Gambar 2 Property dan value pada CSS*/
+h1, h2, h3{
+    font-family: Arial;
+    color: yellow;
+}
